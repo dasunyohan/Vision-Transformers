@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-Thank you for exploring the Vision Transformer repository. We hope this guide helps you understand and implement Vision Transformers for your image classification tasks.
+Thank you for exploring the Vision Transformer repository. Hope this guide helps you understand and implement Vision Transformers for your image classification tasks.
